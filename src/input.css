@@ -1,0 +1,13 @@
+.lengthDiv{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inputBox{
+    height: 100%;
+    width: 20%;
+    padding: 0 4px;
+}
